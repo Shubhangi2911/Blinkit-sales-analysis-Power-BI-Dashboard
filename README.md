@@ -38,7 +38,7 @@ This dashboard provides data-driven insights to understand **total sales, outlet
 
 ## 🖼️ Dashboard Image
 ![Blinkit Grocery Dashboard](./Screenshot%20(320).png)
-> *(Replace the image path above with your GitHub image link if needed.)*
+
 
 ---
 
@@ -64,4 +64,3 @@ This dashboard provides data-driven insights to understand **total sales, outlet
 
 ---
 
-⭐ *If you found this project insightful, consider giving it a star on GitHub!*
